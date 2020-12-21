@@ -1,6 +1,8 @@
-# jarvis
+# Jarvis
 
-A new Flutter project.
+Its your voice assitance and capable to play music according to user choice and recommendation for music .
+
+integrated with alan voice assitance.
 
 ## Getting Started
 
